@@ -15,3 +15,9 @@ The purpose of this software is to add auto-traversal to games that do not alrea
 * Interface devices with game
 * graph traversal component - This will be broken as we go along
 * mapping of commands to interface and graph traversal component
+
+
+# TODO look up feedback options -> visual and otherwise for games
+## Feedback options (On hold == because we will make an assumption that user only gives commands that work for movement)
+* visual feedback
+- robotics libraries - AI libraries that do feedback perception
