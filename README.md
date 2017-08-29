@@ -3,6 +3,14 @@
 ## Description
 Auto-movement which can be hopefully strapped to games.
 
+
+## Installation
+To set up the environment, all you need to do is run:
+pip install -r requirements.txt
+
+This requires that the user has a version of python with pip installed.
+
+
 ## Purpose
 The purpose of this software is to add auto-traversal to games that do not already have it.
 
