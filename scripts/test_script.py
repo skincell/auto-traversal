@@ -1,4 +1,6 @@
-from pywinauto_interface import start_up_automation
+from pywinauto_interface import game_interface_data_collection
 
 
-start_up_automation("C:\Program Files (x86)\Steam\steamapps\common\Heroes of a Broken Land\hobl.exe")
+hobl = game_interface_data_collection("C:\Program Files (x86)\Steam\steamapps\common\Heroes of a Broken Land\hobl.exe")
+
+hobl.send_command("{LEFT}")
