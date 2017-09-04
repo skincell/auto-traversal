@@ -44,6 +44,7 @@ class game_interface_data_collection:
 
     def write_image_data(self):
         image_data = ""
+        Image = self.auto_app.top_window().capture_as_image()
+        Image.save("img1.png", "PNG")
+        print Image
 
-        return image_data
-        pass
