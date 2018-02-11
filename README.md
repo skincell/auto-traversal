@@ -1,5 +1,9 @@
 # auto-traversal
 
+
+Update: This project is defunct. I found this solution shortly before I stopped working on it for an api design, which I should be using as a first step. https://github.com/SerpentAI/SerpentAI
+Once I saw how mature this project was then I decided my project wasn't needed. But I won't really know until I try out their API for my use case. Thanks for coming in and looking at this project, but you should look at Serpent AI and read up and find the community which it spun off of for further research on your project. Thanks
+
 ## Description
 Auto-movement which can be hopefully strapped to games.
 
